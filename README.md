@@ -18,9 +18,9 @@ Wary é a mais nova integrante da família TJ BOT, somando sua expertise em gere
   ![alt tag](https://github.com/Mayco-Anderson/BlueHack-Wary/blob/master/conversation2.png)
   ![alt tag](https://github.com/Mayco-Anderson/BlueHack-Wary/blob/master/front-end.png)
   ![alt tag]( https://github.com/Mayco-Anderson/BlueHack-Wary/blob/master/otherFlows.png)
-  ![alt tag]( https://github.com/Mayco-Anderson/BlueHack-Wary/blob/master/cadastro.png)
-  ![alt tag]( https://github.com/Mayco-Anderson/BlueHack-Wary/blob/master/lista.png)
-  ![alt tag]( https://github.com/Mayco-Anderson/BlueHack-Wary/blob/master/temperatures.png)
+  ![alt tag]( https://github.com/mvkassak/BlueHack-Wary/blob/master/cadastro.png)
+  ![alt tag]( https://github.com/mvkassak/BlueHack-Wary/blob/master/lista.png)
+  ![alt tag]( https://github.com/mvkassak/BlueHack-Wary/blob/master/temperatures.png)
  
  Os cuidados de Wary chegam também às mãos dos profissionais da saúde responsáveis pelo acompanhamento clínico desses indivíduos. De maneira
  remota, através de uma interface Web, médicos podem fazer o setup de notificações sobre posologia, frequência e tipo de remédios devem
